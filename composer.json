@@ -9,7 +9,7 @@
             "email": "5693140966@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4"
     },
